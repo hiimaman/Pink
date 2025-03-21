@@ -38,7 +38,7 @@ application_surface_draw_enable(false);
 //Border_SetEnabled(true);
 
 show_debug_message("UNDERTALE by Toby Fox");
-show_debug_message("UNDERTALE Engine by TML");
+show_debug_message("This is a fangame by PINKTEAM, and is not cannon");
 show_debug_message("Engine Version: "+ENGINE_VERSION);
 show_debug_message("Game Name: "+GAME_NAME);
 show_debug_message("Game Author: "+GAME_AUTHOR);

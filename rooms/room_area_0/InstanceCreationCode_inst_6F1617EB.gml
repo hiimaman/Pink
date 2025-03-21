@@ -1,1 +1,1 @@
-text="* DETERMINATION."
+text="* This is a fangame by PINKTEAM."
